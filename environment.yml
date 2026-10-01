@@ -1,0 +1,10 @@
+name: dad
+channels:
+  - conda-forge
+dependencies:
+ - python=3.9
+ - pytorch=1.10
+ - mlflow
+ - pandas
+ - numpy
+ - pyro-ppl
